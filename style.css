@@ -1,0 +1,59 @@
+#angular{
+    margin-left: 300px;
+    margin-top: 0px;
+    position: absolute;
+}
+#react{
+    margin-left: 600px;
+    position: absolute;
+}
+#google{
+    margin-left: 325px;
+    margin-top: 200px;  
+    position: absolute;
+}
+#youtube{
+    margin-left: 325px;
+    margin-top: 300px;
+    position: absolute;
+}
+#microsoft{
+    margin-left: 325px;
+    margin-top: 400px;
+    position: absolute;
+}
+#apple{
+    margin-left: 385px;
+    margin-top: 500px;
+    position: absolute  ;
+}
+#paypal{
+    margin-left: 325px;
+    margin-top: 615px;
+    position: absolute;
+}
+#facebook{
+    margin-left: 600px;
+    margin-top: 205px;
+    position: absolute;
+}
+#insta{
+    margin-left: 600px;
+    margin-top: 320px;
+    position: absolute;
+}
+#whatsapp{
+    margin-left: 600px;
+    margin-top: 440px;
+    position: absolute;
+}
+#netflix{
+    margin-left: 600px;
+    margin-top: 540px;
+    position: absolute;
+}
+#air{
+    margin-left: 600px;
+    margin-top: 625px;
+    position: absolute;
+}
